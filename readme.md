@@ -6,7 +6,12 @@ _Inspired by Trevor Sawler's_ [Building Modern Web Applications with Go](https:/
 
 [CSRFHandler](https://github.com/justinas/nosurf) 
 
+[DB Migrations using SODA](https://gobuffalo.io/en/docs/db/getting-started/)
+
 [Session Management](https://github.com/alexedwards/scs/v2)
+
+## Client
+[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/)
 
 ## Best Practices
 [Unofficial Go Project Layout Standards](https://github.com/golang-standards/project-layout)

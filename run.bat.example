@@ -1,0 +1,2 @@
+go build -o scaffold.exe cmd/web/.
+scaffold -dbuser='username' -pusherHost='localhost:4001' -pusherSecret='somesecret' -pusherKey='somekey' -pusherSecure=false pusherApp="1" -db="vigilate"
