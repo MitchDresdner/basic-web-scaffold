@@ -1,6 +1,12 @@
 # Mac OS X files
 .DS_Store
 
+# Editor
+.idea
+
+# Project
+tmp
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
